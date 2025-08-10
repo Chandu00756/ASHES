@@ -78,6 +78,9 @@ export OPENAI_API_KEY="your-openai-key"
 
 # Run production server
 python run_production.py
+or
+
+./start_ashes.sh
 ```
 
 ### Environment Variables
