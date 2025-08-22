@@ -10,6 +10,7 @@
 ASHES (Autonomous Scientific Hypothesis Evaluation System) is a prototype research platform developed by PortalVII. This system demonstrates a multi-agent AI framework for autonomous scientific research, hypothesis generation, and experimental validation.
 
 **Current Status: v1.0.1 Prototype**
+
 - ✅ Core functionality implemented
 - ✅ Basic agent orchestration working  
 - ✅ API endpoints functional
@@ -275,12 +276,14 @@ ASHES/
 ### **THIS IS A PROTOTYPE VERSION - NOT PRODUCTION READY**
 
 **Development Status:**
-- This is ASHES v1.0.1 **PROTOTYPE** 
+
+- This is ASHES v1.0.1 **PROTOTYPE**
 - Built for research, development, and demonstration purposes
 - **NOT intended for production enterprise deployment**
 - Contains development configurations and dependencies
 
 **Known Limitations:**
+
 - Limited security hardening
 - Development-grade error handling
 - Prototype-level testing coverage
@@ -288,6 +291,7 @@ ASHES/
 - Default credentials in use (change for any real deployment)
 
 **Use Cases:**
+
 - ✅ Research and development
 - ✅ Proof of concept demonstrations
 - ✅ Academic exploration
@@ -297,6 +301,7 @@ ASHES/
 - ❌ Unsupervised autonomous operation
 
 **Before Production Use:**
+
 - Comprehensive security audit required
 - Production-grade authentication system
 - Extensive testing and validation
